@@ -103,4 +103,7 @@ li {
   .container {
     width: 200px;
   }
+  .card-white {
+    width: 150px;
+  }
 }
